@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Healthy App</string>
+    <string name="hai">Faizal U+1F44B</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Judul_Sehat">Tips menjaga kesehatan tubuh</string>
+    <string name="sub_TS1">1. Mengonsumsi Makanan Sehat dan Aktif Berolahraga Rutin</string>
+    <string name="TS1">Tips menjaga kesehatan tubuh dipengaruhi dari apa yang Anda konsumsi setiap hari. Makanlah makanan yang memiliki kandungan karbohidrat (nasi merah dan roti gandum), lemak sehat (alpukat, biji-bijian, aneka jenis ikan laut), vitamin dan  mineral (brokoli, kembang kol, mentimun, jamur,paprika, terong, serta wortel), protein (daging tanpa lemak, susu, dan telur). Perlu juga mengonsumsi buah-buahan seperti anggur, apel dan lain-lan.</string>
+    <string name="sub_TS2">2. Tidak Merokok dan Mengonsumsi Alkohol </string>
+    <string name="TS2">Kebiasaan merokok menjadi penyebab penyakit kardiovaskular, kanker, dan pernapasan.Cara berhenti merokok di antaranya olahraga rutin, menerapkan pola makan sehat, membersihkan rumah, dan cari hobi baru untuk mengalihkan ingatan pada rokok. Selain tidak merokok, hentikan pula kebiasaan mengonsumsi minuman alkohol karena minuman ini bisa memudahkan tubuh terkena infeksi bakteri dan virus karena kesehatan Anda semakin hari akan berkurang. Alkohol sendiri bisa memicu beberapa penyakit seperti ginjal, hati, sampai kanker.</string>
+    <string name="sub_TS3">3. Cukupi Waktu untuk Istirahat</string>
+    <string name="TS3">Penting sekali untuk mencukupi waktu tidur setiap harinya untuk menjaga kesehatan tubuh. Alasannya, tidur yang cukup membantu memperbaiki sel-sel tubuh, membuat tubuh menjadi segar, mempertajam ingatan, dan meningkatkan suasana hati.  Waktu tidur sebaiknya lakukan selama 7–8 jam dalam sehari. </string>
+    <string name="sub_TS4">4. Tidak Stres</string>
+    <string name="TS4">Stres yang dialami secara terus menerus bisa melemahkan imun tubuh, sehingga memicu Anda mudah terkena penyakit. Salah satu cara mengatur stres adalah dengan menjaga kesehatan tubuh. Ada banyak cara yang bisa dilakukan untuk membantu meminimalisir stres, seperti melakukan meditasi, olahraga, bercerita dengan orang terdekat dan yang dipercaya, dan melakukan aktivitas positif lainnya. </string>
+    <string name="sub_TS5">5. Jaga Kebersihan Diri dan Lingkungan Sekitarnya</string>
+    <string name="TS5">Tips menjaga kesehatan tubuh yang terakhir adalah menjaga kebersihan diri maupun lingkungan sekitar untuk mencegah berbagai kuman dan virus sumber penyaki</string>
+
+    <string name="Judul_Tinggi">Tips Untuk meninggikan tinggi badan</string>
+    <string name="sub_T1">1. Olahraga secara rutin</string>
+    <string name="T1">Olahraga dan aktivitas fisik rutin sangat baik untuk memperkuat jaringan otot dan tulang, mempertahankan berat badan yang sehat, dan meningkatkan produksi hormon pertumbuhan.</string>
+    <string name="sub_T2">2. Perbaiki postur tubuh</string>
+    <string name="T2">Perbaikan postur tubuh juga bisa membantu menambah tinggi badan secara alami. Kebiasaan berdiri, duduk, dan tidur dengan postur yang tidak benar, misalnya sering membungkuk, dapat membuat tubuh terlihat terlihat lebih pendek. Sebaliknya, dengan postur tubuh yang baik dan tegak, tubuh akan terlihat lebih tinggi dan proporsional.</string>
+    <string name="sub_T3">3. Istirahat yang cukup</string>
+    <string name="T3">Kurang tidur dapat memicu berbagai masalah kesehatan. Pada anak-anak dan remaja, kurang tidur bisa membuat tumbuh kembang terganggu. Ini karena proses pertumbuhan dan perkembangan tubuh membutuhkan asupan energi yang tinggi, dan salah satu cara untuk mengisi energi tersebut adalah dengan istirahat yang cukup.p</string>
+    <string name="sub_T4">4. Konsumsi makanan bergizi seimbang</string>
+    <string name="T4">Selama masa pertumbuhan, sangat penting untuk memenuhi nutrisi yang dibutuhkan oleh tubuh, agar pertumbuhan tinggi badan bisa maksimal.Untuk menunjang pertumbuhan tinggi badan dan menjaga kepadatan tulang, anak-anak dan remaja perlu mengonsumsi makanan yang kaya akan beragam nutrisi, seperti protein, kalsium, dan vitamin D. </string>
+
+    <string name="Judul_Berat">Tips Untuk menajaga berat badan</string>
+    <string name="sub_B1">1. Membuat rencana</string>
+    <string name="B1">Buatlah rencana jangka pendek dan jangka panjang tentang makanan sehat, camilan yang diinginkan, rutinitas olahraga, motivasi, dan ide-ide lainnya. Anda juga bisa membuat strategi menjaga berat badan, misalnya dengan mengkombinasikan antara makanan favorit dan makanan sehat.</string>
+    <string name="sub_B2">2. Menjaga Pola makan</string>
+    <string name="B2">Mencoba mengelola kalori yang masuk ke dalam tubuh, bukan berarti Anda tidak memakan sesuatu atau merasa lapar. Jika Anda memang hobi makan, makan saja, tetapi pilihlah makanan yang sehat dan rendah kalori. Jika Anda mudah tergoda dengan pie, kue, keripik kentang, dan makanan berlemak lainnya, Anda bisa memilih makanan yang hampir sama tetapi lebih sehat.</string>
+    <string name="sub_B3">3. Ganti menu dengan porsi yang sama</string>
+    <string name="B3">Anda tetap bisa memiliki porsi sepiring penuh, jika Anda mengganti beberapa tipe makanan. Sebagai contohnya, Anda bisa mencoba 50% porsi piring dengan buah dan sayur, 25% biji-bijian atau gandum (misalnya beras merah), dan 25% protein. Protein dapat membuat tubuh Anda kenyang lebih lama.</string>
+    <string name="sub_B4">4. Jangan melewatkan sarapan</string>
+    <string name="B4">Penelitian yang dikutip oleh Livescience.com menunjukkan bahwa orang yang melewatkan sarapan cenderung mengalami peningkatan berat badan dibanding dengan yang tidak melewatkannya</string>
+
+
+    <string name="tidak_sehat">Istirahatlah yang cukup dan makan makanan yang bergizi agar kesehatanmu normal kembali</string>
+    <string name="agak_sehat">Hindari Aktivitas berlebih, tubuhmu juga perlu istirahat</string>
+    <string name="sehat">Alhamdullilah sehat</string>
+    <string name="sangat_sehat">Sehat itu enak bukan? Ayo terus jaga kesehatanmu</string>
+
+</resources>
