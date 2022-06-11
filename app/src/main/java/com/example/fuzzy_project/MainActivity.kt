@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
     var result_BB :Array<Double> = arrayOf()
     var DK_BB :Array<String> = arrayOf()
 
-    //Inference
+    //Variabel Inference
     var number_inference : Array<Double> = arrayOf()
     var DK_inference : Array<String> = arrayOf()
     var key : Int = 0
@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
     var number_disjuction : Array<Double> = arrayOf()
     var DK_disjuction : Array<String> = arrayOf()
 
-    // DefuzziFication
+    //Variabel  DefuzziFication
     val range_ts = Array<Int>(5){it*5}
     val range_as = Array<Int>(5){it*5+25}
     val range_s = Array<Int>(5){it*5+51}
@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     // Show Popup Info
-    private fun showMenu(v: View, @MenuRes menuRes: Int) {
+    private fun showMenu(v: View,  menuRes: Int) {
         val popup = PopupMenu(this, v)
         popup.menuInflater.inflate(menuRes, popup.menu)
 
@@ -512,7 +512,7 @@ class MainActivity : AppCompatActivity() {
             for(i in DK_inference.indices){
                 for(j in 1..DK_inference.size-1){
                     // Pengecekan apakah ada nama yang sama pada suatu array
-                    if(DK_inference[0] == DK_inference[j]){
+                    if(DK_inference[0] == DK_inference[j] || DK_inference[i] == DK_inference[j]){
                         key = 1
                     }
                 }
